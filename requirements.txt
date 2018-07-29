@@ -1,0 +1,3 @@
+#
+RiveScript==1.14.9
+SlackClient==1.2.1
